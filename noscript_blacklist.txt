@@ -1,0 +1,28 @@
+{
+  "policy": {
+    "sites": {
+      "untrusted": [
+        "§:google-analytics.com",
+        "§:ioam.de",
+        "§:googletagmanager.com",
+        "§:tiqcdn.com",
+        "§:amazon-adsystem.com",
+        "§:googletagservices.com",
+        "§:moatads.com",
+        "§:aaxads.com",
+        "§:criteo.net",
+        "§:doubleclick.net",
+        "§:openx.net",
+        "§:tisoomi-services.com",
+        "§:adsrvr.org",
+        "§:imasdk.googleapis.com",
+        "§:addtoany.com",
+        "§:googlesyndication.com",
+        "§:facebook.com",
+        "§:facebook.net",
+        "§:quantserve.com",
+        "§:scorecardresearch.com"
+      ]
+    }
+  }
+}
