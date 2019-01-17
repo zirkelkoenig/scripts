@@ -21,7 +21,10 @@
         "§:facebook.com",
         "§:facebook.net",
         "§:quantserve.com",
-        "§:scorecardresearch.com"
+        "§:scorecardresearch.com",
+        "§:juicer.io",
+        "§:smartlook.com",
+        "§:adobedtm.com"
       ]
     }
   }
