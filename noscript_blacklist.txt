@@ -24,7 +24,10 @@
         "§:scorecardresearch.com",
         "§:juicer.io",
         "§:smartlook.com",
-        "§:adobedtm.com"
+        "§:adobedtm.com",
+        "§:adition.com",
+        "§:adroll.com",
+        "§:googleadservices.com"
       ]
     }
   }
