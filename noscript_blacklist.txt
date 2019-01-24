@@ -27,7 +27,9 @@
         "§:adobedtm.com",
         "§:adition.com",
         "§:adroll.com",
-        "§:googleadservices.com"
+        "§:googleadservices.com",
+        "§:addthis.com",
+        "§:gaug.es"
       ]
     }
   }
