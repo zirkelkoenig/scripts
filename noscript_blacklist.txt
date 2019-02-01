@@ -29,7 +29,8 @@
         "§:adroll.com",
         "§:googleadservices.com",
         "§:addthis.com",
-        "§:gaug.es"
+        "§:gaug.es",
+        "§:adup-tech.com"
       ]
     }
   }
