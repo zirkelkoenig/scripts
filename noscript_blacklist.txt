@@ -30,7 +30,9 @@
         "§:googleadservices.com",
         "§:addthis.com",
         "§:gaug.es",
-        "§:adup-tech.com"
+        "§:adup-tech.com",
+        "§:adnxs.com",
+        "§:bidhead.net"
       ]
     }
   }
