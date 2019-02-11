@@ -32,7 +32,8 @@
         "§:gaug.es",
         "§:adup-tech.com",
         "§:adnxs.com",
-        "§:bidhead.net"
+        "§:bidhead.net",
+        "§:kiosked.com"
       ]
     }
   }
