@@ -2,18 +2,24 @@
   "policy": {
     "sites": {
       "untrusted": [
+        "§:1rx.io",
         "§:aaxads.com",
         "§:addthis.com",
         "§:addtoany.com",
+        "§:adform.net",
         "§:adition.com",
         "§:adnxs.com",
         "§:adobedtm.com",
         "§:adroll.com",
         "§:adsrvr.org",
         "§:adup-tech.com",
+        "§:advertising.com",
         "§:amazon-adsystem.com",
         "§:bidhead.net",
+        "§:bluekai.com",
+        "§:casalemedia.com",
         "§:criteo.net",
+        "§:dotomi.com",
         "§:doubleclick.net",
         "§:facebook.com",
         "§:facebook.net",
@@ -23,17 +29,24 @@
         "§:googlesyndication.com",
         "§:googletagmanager.com",
         "§:googletagservices.com",
+        "§:gosquared.com",
         "§:imasdk.googleapis.com",
         "§:ioam.de",
         "§:juicer.io",
         "§:kiosked.com",
+        "§:lijit.com",
         "§:moatads.com",
+        "§:newrelic.com",
         "§:openx.net",
+        "§:pubmatic.com",
         "§:quantserve.com",
+        "§:qubit.com",
+        "§:rubiconproject.com",
         "§:scorecardresearch.com",
         "§:smartlook.com",
         "§:tiqcdn.com",
-        "§:tisoomi-services.com"
+        "§:tisoomi-services.com",
+        "§:vlyby.com"
       ]
     }
   }
