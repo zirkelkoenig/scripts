@@ -4,4 +4,4 @@
 	miniblog = log --decorate --oneline -n 20
 	ss = status --short
 	ch = checkout
-	f = fetch -v origin
+	fo = fetch -v origin
