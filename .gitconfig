@@ -1,7 +1,11 @@
 [alias]
-	graph = log --decorate --oneline --all --graph
+	graph = log --decorate --oneline --graph
+	fullgraph = log --decorate --oneline --graph --all
 	blog = log --decorate --oneline
 	miniblog = log --decorate --oneline -n 20
 	ss = status --short
 	ch = checkout
 	fo = fetch origin
+	po = push origin
+	shows = show --stat
+	showd = show
