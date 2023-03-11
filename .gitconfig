@@ -5,7 +5,5 @@
 	miniblog = log --decorate --oneline -n 20
 	ss = status --short
 	ch = checkout
-	fo = fetch origin
-	po = push origin
-	shows = show --stat
-	showd = show
+	showstat = show --stat
+	showdiff = show
